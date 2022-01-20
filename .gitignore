@@ -1,0 +1,5 @@
+.env
+server_node
+*__pycache__
+db.sqlite3
+migrations
